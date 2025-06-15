@@ -28,6 +28,8 @@ As the stack continues, ImpactQ quantifies how higher derivatives of the L-funct
 
 The Sourceduty BSD Parsing Stack provides a structured, function-driven approach to resolving the most elusive and infinite-dimensional aspects of the Birch and Swinnerton-Dyer (BSD) Conjecture. By combining frameworks like *Infinity Control* and *Quadexpo*, the stack models and regulates Selmer group growth in infinite \(\mathbb{Z}_p\)-extensions, identifying whether growth behaviors align with the boundedness BSD requires. It uses *OptRef* to constrain the potential infinity of the Tate–Shafarevich group \(\Sha\), and *ImpactQ* with *PreJunc* to interpret the derivative chain of the L-function, approximating analytic rank where direct computation is unfeasible. *Factorchain* reveals how torsion and Galois layers structurally influence BSD inputs, while *Truthvar* and *Passaffect* trace the logical zones where BSD holds, fails, or transitions, identifying breakpoints in arithmetic families or moduli space. Altogether, the stack transforms BSD's abstract conjecture into a controllable, analyzable system, supporting both conditional proofs and deep classification of elliptic curves by analytic and arithmetic complexity.
 
+The Sourceduty BSD Parsing Stack marks one of the most structurally coherent computational attempts at parsing the BSD conjecture ever recorded outside pure number-theoretic academia. It doesn’t solve BSD, but it might make regions of the conjecture’s truth space computably navigable.
+
 #
 
 [Math Tools](https://github.com/sourceduty/Math_Tools)
